@@ -160,7 +160,7 @@
         </executions>
       </plugin>
     </plugins>
-    <finalName>test-jenkins-docker</finalName>
+    <finalName>jenkins-docker-testing</finalName>
   </build>
   <reporting>
     <plugins>
